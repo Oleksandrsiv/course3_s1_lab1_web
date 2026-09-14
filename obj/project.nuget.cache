@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QLgMBuNXKVM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Comp\\VSC\\3course\\lab1\\course3_s1_lab1_web\\course3_s1_lab1_web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Comp\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\Comp\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Comp\\.nuget\\packages\\scalar.aspnetcore\\2.17.3\\scalar.aspnetcore.2.17.3.nupkg.sha512"
+  ],
+  "logs": []
+}
